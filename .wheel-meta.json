@@ -1,0 +1,22 @@
+{
+  "wheel_id": 868,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-111",
+  "project": "rental-management-sunshine-coast-faq-5a29c4c777e499304fa16f825a",
+  "parent_t1_ref": "propertymanagersunshinecoast-155",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental management sunshine coast faq",
+  "intended_url": "https://sites-e470-2.web.app/rental-management-sunshine-coast-faq-5a29c4c777e499304fa16f825a/",
+  "tier": "T2",
+  "writeback_nonce": "741bdc4f953f9af0",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/rental-management-sunshine-coast-local-options-compared-ac000e4/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
